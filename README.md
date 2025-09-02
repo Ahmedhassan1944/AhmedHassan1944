@@ -92,7 +92,7 @@ Developed an interactive PowerPoint logistics tracker for Viaduct 98 — Nile SA
 ---
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://claude.ai/public/artifacts/0e40138b-e22d-425d-b76d-40004614d361)](YOUR_PORTFOLIO_URL)
 [![CV](https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_CV_LINK)
 
 ### Links
