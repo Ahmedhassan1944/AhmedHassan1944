@@ -9,13 +9,18 @@
 As an ERP Specialist working in Procurement at EDECS, I help bridge the gap between field teams and digital systems using Microsoft Dynamics 365. With hands-on experience creating service and purchase[...]
 
 ---
-### 🛠️ Languages and Tools:
-![Microsoft Dynamics 365](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🛠️ Languages & Tools:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Typing](https://img.shields.io/badge/Typing-000000?style=for-the-badge&logo=mechanical-keyboard&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft-dynamics-365&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![OData API](https://img.shields.io/badge/OData%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+
 
 ### Top Skills
 
@@ -89,13 +94,8 @@ Developed an interactive PowerPoint logistics tracker for Viaduct 98 — Nile SA
 - Hardware devices in general
 - Technology
 
----
+
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://claude.ai/public/artifacts/0e40138b-e22d-425d-b76d-40004614d361)](YOUR_PORTFOLIO_URL)
-[![CV](https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_CV_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://claude.ai/public/artifacts/0e40138b-e22d-425d-b76d-40004614d361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhasson?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-### Links
-
-- [LinkedIn](https://www.linkedin.com/in/ahmedhasson?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Personal Website](https://claude.ai/public/artifacts/0e40138b-e22d-425d-b76d-40004614d361)
