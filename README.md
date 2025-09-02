@@ -38,6 +38,28 @@ Worked as a data entry specialist as part of a project to enter data accurately 
 
 ---
 
+### Certifications & Achievements
+
+- **Google Data Analytics Professional Certificate**  
+  _Google_
+
+- **Analyzing and Visualizing Data with Microsoft Power BI**  
+  _365 Data Science_
+
+- **Typing Certificate**  
+  _Typing.com_
+
+---
+
+### Education
+
+**Statistics, BCom - Bachelor of Commerce**  
+_Al-Azhar University_  
+Oct 2019 - Jul 2023  
+Graduated with honors in Statistics, earning a "Very Good" grade. Specialized in statistical analysis and interpretation, providing a strong foundation for data-driven decision-making in business environments.
+
+---
+
 ### Projects
 
 **Smart Item Code Search using Power BI & OData Feed (2025):**  
