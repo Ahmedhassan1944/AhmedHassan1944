@@ -4,7 +4,7 @@
 
 ### About Me
 
-As an ERP Specialist working in Procurement at EDECS, I help bridge the gap between field teams and digital systems using Microsoft Dynamics 365. With hands-on experience creating service and purchase requests, and building smart search dashboards in Power BI, I solve real-world challenges that improve efficiency. I'm passionate about simplifying complex data and enabling smarter decision-making.
+As an ERP Specialist working in Procurement at EDECS, I help bridge the gap between field teams and digital systems using Microsoft Dynamics 365. With hands-on experience creating service and purchase[...]
 
 ---
 
@@ -24,6 +24,20 @@ As an ERP Specialist working in Procurement at EDECS, I help bridge the gap betw
 
 ---
 
+### Work Experience
+
+**Data Entry Specialist**  
+_EDECS_  
+**May 2025 - Present • 4 months**  
+Contributed to internal process improvement by developing a Power BI dashboard for monitoring Purchase Requisition and Service Request workflows. Enabled better visibility into workflow bottlenecks (e.g., requests pending in a specific department). Extracted and cleaned data from Dynamics 365 using OData Feed. Built data models and DAX measures to track request progress and responsible personnel. The dashboard was used by the procurement and quality teams to enhance efficiency and track performance metrics.
+
+**Data Entry**  
+_Hassan Allam's Sons_  
+**Nov 2023 - Feb 2024 • 4 months**  
+Worked as a data entry specialist as part of a project to enter data accurately and efficiently using MS Word & Excel.
+
+---
+
 ### Projects
 
 **Smart Item Code Search using Power BI & OData Feed (2025):**  
@@ -33,7 +47,7 @@ Developed a Power BI project that connects two tables using the OData API feed. 
 Designed and developed an interactive Power BI dashboard to monitor workflow processes for Purchase Requisitions and Service Requests at EDECS.
 
 **PowerPoint Logistics Tracker (2025):**  
-Developed an interactive PowerPoint logistics tracker for Viaduct 98 — Nile SAT (Part 2), documenting daily vehicle movements with visual maps, animations, and organized tables. Enhanced reporting by delivering clear, professional insights without complex tools.
+Developed an interactive PowerPoint logistics tracker for Viaduct 98 — Nile SAT (Part 2), documenting daily vehicle movements with visual maps, animations, and organized tables. Enhanced reporting b[...]
 
 ---
 
