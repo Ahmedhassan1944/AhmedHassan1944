@@ -1,6 +1,6 @@
   ## Ahmed-Hassan
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
 
 ## Data Entry Specialist
 
@@ -83,6 +83,10 @@ Developed an interactive PowerPoint logistics tracker for Viaduct 98 — Nile SA
 - Technology
 
 ---
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![CV](https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_CV_LINK)
 
 ### Links
 
