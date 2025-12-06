@@ -42,7 +42,7 @@ As an ERP Specialist working in Procurement at EDECS, I help bridge the gap betw
 
 **Data Entry Specialist**  
 _EDECS_  
-**May 2025 - Present • 4 months**  
+**May 2025 - Present • 8 months**  
 Contributed to internal process improvement by developing a Power BI dashboard for monitoring Purchase Requisition and Service Request workflows. Enabled better visibility into workflow bottlenecks (e.g., requests pending in a specific department). Extracted and cleaned data from Dynamics 365 using OData Feed. Built data models and DAX measures to track request progress and responsible personnel. The dashboard was used by the procurement and quality teams to enhance efficiency and track performance metrics.
 
 **Data Entry**  
