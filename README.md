@@ -6,7 +6,7 @@
 
 ### About Me
 
-As an ERP Specialist working in project management department at EDECS, I help bridge the gap between field teams and digital systems using Microsoft Dynamics 365. With hands-on experience creating service and purchase[...]
+As an ERP Specialist working in projects management department at EDECS, I help bridge the gap between field teams and digital systems using Microsoft Dynamics 365. With hands-on experience creating service and purchase[...]
 
 ---
 ### 🛠️ Languages & Tools:
