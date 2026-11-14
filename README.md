@@ -1,9 +1,9 @@
   # Ahmed-Hassan Mohamed Abdelnaser Abdelraouf Sanad Gendy (Full Name)
-  # Address: Egypt\Dakahia\Aga\Sahraget_Elsoughra\El Souq 
+  # Address: Egypt
   
 
 
-## Data Entry Specialist but intend to be a data analyst soon
+## Regional HR-Coordinator (Oman Branch)
 
 ### About Me
 
