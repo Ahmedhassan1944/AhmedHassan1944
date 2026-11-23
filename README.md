@@ -1,4 +1,4 @@
-  # Ahmed-Hassan Mohamed Abdelnaser Abdelraouf Sanad Gendy (Full Name)
+  # Ahmed-Hassan Mohamed Abdelnaser
   # Address: Egypt
   
 
