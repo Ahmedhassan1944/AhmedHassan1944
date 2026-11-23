@@ -102,7 +102,4 @@ Developed an interactive PowerPoint logistics tracker for Viaduct 98 — Nile SA
 - Technology
 
 
-### 🔗 Connect with me:
-[![Portfolio](https://cvwebsiteddd44.vercel.app/)
-[![LinkedIn](https://www.linkedin.com/in/ahmed-hassan-377a0129a/)
 
