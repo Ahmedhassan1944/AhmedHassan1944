@@ -98,8 +98,3 @@ Designed and developed an interactive Power BI dashboard to monitor workflow pro
 Developed an interactive PowerPoint logistics tracker for Viaduct 98 — Nile SAT (Part 2), documenting daily vehicle movements with visual maps, animations, and organized tables. Enhanced reporting b[...]
 
 ---
-- Hardware devices in general
-- Technology
-
-
-
