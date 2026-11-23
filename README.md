@@ -41,9 +41,16 @@ As an ERP Specialist working in projects management department at EDECS, I help 
 
 ### Work Experience
 
+**Human Resources Coordinator**  
+_EDECS_  
+**June 2026 - Present **  
+As an HR Coordinator at EDECS, responsible for HR Mobilization Operations in Oman,
+I manage end-to-end employee deployment processes, coordinating everything from initial candidate documentation and medical procedures to visa processing, travel arrangements, and onboarding coordination. I focus on building structured workflows, standardizing operational procedures, and strengthening process governance to ensure accuracy, consistency, and operational control. Through effective data management, ERP administration, and risk management, I aim to simplify complex HR operations and improve process efficiency. I'm passionate about transforming manual processes into structured, data-driven workflows and leveraging digital solutions to enhance operational visibility, accountability, and continuous improvement.
+
+
 **Data Entry Specialist**  
 _EDECS_  
-**May 2025 - Present • 8 months**  
+**May 2025 - June 2026 • 13 months**  
 Contributed to internal process improvement by developing a Power BI dashboard for monitoring Purchase Requisition and Service Request workflows. Enabled better visibility into workflow bottlenecks (e.g., requests pending in a specific department). Extracted and cleaned data from Dynamics 365 using OData Feed. Built data models and DAX measures to track request progress and responsible personnel. The dashboard was used by the procurement and quality teams to enhance efficiency and track performance metrics.
 
 **Data Entry**  
@@ -77,6 +84,9 @@ Graduated with honors in Statistics, earning a "Very Good" grade. Specialized in
 
 ### Projects
 
+**EDECS HR Mobilization Management System 2026**  
+Designed and developed a centralized HR Mobilization Management System using Google Apps Script to streamline and standardize end-to-end employee mobilization operations for EDECS Oman.
+
 **Smart Item Code Search using Power BI & OData Feed (2025):**  
 Developed a Power BI project that connects two tables using the OData API feed. The main objective is to simplify the process of identifying item or service codes inside Microsoft Dynamics 365 ERP.
 
@@ -87,11 +97,6 @@ Designed and developed an interactive Power BI dashboard to monitor workflow pro
 Developed an interactive PowerPoint logistics tracker for Viaduct 98 — Nile SAT (Part 2), documenting daily vehicle movements with visual maps, animations, and organized tables. Enhanced reporting b[...]
 
 ---
-
-### Hobbies
-
-- Mobile phones
-- Tablets
 - Hardware devices in general
 - Technology
 
