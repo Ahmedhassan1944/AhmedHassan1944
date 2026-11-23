@@ -7,7 +7,8 @@
 
 ### About Me
 
-As an ERP Specialist working in projects management department at EDECS, I help bridge the gap between field teams and digital systems using Microsoft Dynamics 365. With hands-on experience creating service and purchase[...]
+As an HR Coordinator at EDECS, responsible for HR Mobilization Operations in Oman,
+I manage end-to-end employee deployment processes, coordinating everything from initial candidate documentation and medical procedures to visa processing, travel arrangements, and onboarding coordination. I focus on building structured workflows, standardizing operational procedures, and strengthening process governance to ensure accuracy, consistency, and operational control. Through effective data management, ERP administration, and risk management, I aim to simplify complex HR operations and improve process efficiency. I'm passionate about transforming manual processes into structured, data-driven workflows and leveraging digital solutions to enhance operational visibility, accountability, and continuous improvement.
 
 ---
 ### 🛠️ Languages & Tools:
